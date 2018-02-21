@@ -8,6 +8,10 @@ use the dankest memes instead?
 #### Usage
 Include `memeset.h` and use the `memeset` function as you would with `memset`.
 
+#### License
+This code is purely public domain under the "Unlicense". 
+I couldn't care less what you do with it.
+
 #### FAQ
 
 ##### Why?
