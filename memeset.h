@@ -5,9 +5,9 @@
     #define ARRAY_SIZE(x) (sizeof((x)) / sizeof((x)[0]))
 #endif
 
-#include <stdint.h>
 #include <string.h>
 
+/* Add your memes here. */
 const char *memes[] = {
     "i use arch btw",
     "I'd just like to interject for a moment...",
